@@ -4,7 +4,6 @@ Virtual Internship - Android Application Development Using Kotlin
 
 Name: Shoheb Shaik
 
-Projects
+Project
+Grocery Application 
 
-1.NearByPlaces
-2.Grocery App
