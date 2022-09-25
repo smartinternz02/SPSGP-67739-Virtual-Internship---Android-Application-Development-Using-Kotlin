@@ -1,4 +1,4 @@
-package com.rahulpa.groceryapp
+package com.shoheb.groceryapp
 
 class GroceryRepository(private val db: GroceryDatabase) {
 
