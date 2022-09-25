@@ -1,4 +1,4 @@
-package com.rahulpa.groceryapp
+package com.shoheb.groceryapp
 
 import android.content.Context
 import androidx.room.Database
