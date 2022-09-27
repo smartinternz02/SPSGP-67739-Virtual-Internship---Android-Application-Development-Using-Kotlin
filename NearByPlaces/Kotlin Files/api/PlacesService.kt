@@ -1,4 +1,4 @@
-package com.rahulpa.myapplication.api
+package com.shoheb.myapplication.api
 
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
