@@ -1,4 +1,4 @@
-package com.rahulpa.myapplication
+package com.shoheb.myapplication
 
 import android.annotation.SuppressLint
 import android.location.Location
