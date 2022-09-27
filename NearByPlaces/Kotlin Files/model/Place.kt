@@ -1,4 +1,4 @@
-package com.rahulpa.myapplication.model
+package com.shoheb.myapplication.model
 
 import com.google.android.gms.maps.model.LatLng
 
